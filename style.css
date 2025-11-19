@@ -160,7 +160,9 @@ section{
 
 .section-container{
     display: flex;
+    text-align: justify;
 }
+
 
 /* PROFILE SECTION  */
 
@@ -181,12 +183,15 @@ section{
 .section__text{
     align-self: center;
     text-align: center;
+    
 }
 .section__text p{
-    font-weight: 600;    
+    font-weight: 600;
+      
 }
 .section__text__p1{
     text-align: center;
+    
     
 }
 
@@ -287,9 +292,6 @@ section{
     border-radius: 2rem;
     justify-content:left;
     
-}
-.text-container{
-    text-align: justify;
 }
 
 .arrow{

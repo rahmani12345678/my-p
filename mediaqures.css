@@ -60,7 +60,7 @@
    }
    .about-containers, .contact-info-upper-container,.btn-container{
     flex-wrap: wrap;
-    /* justify-content: flex-start; */
+    justify-content: flex-start;
    
    }
    
